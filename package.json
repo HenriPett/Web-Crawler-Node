@@ -1,0 +1,15 @@
+{
+  "name": "Web-Crawler-Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HenriPett/Web-Crawler-Node.git",
+  "author": "Henrique <henriquepett@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/cheerio": "^0.22.31",
+    "axios": "^0.26.0",
+    "cheerio": "^1.0.0-rc.10",
+    "firebase-admin": "^10.0.2"
+  }
+}
